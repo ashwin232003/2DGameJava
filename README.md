@@ -1,23 +1,21 @@
 # Blue Boy Adventure - 2D Game using Java AWT and Threads
 
-[![Gameplay Video](video_thumbnail.png)](https://www.example.com//C://Users//admin//Desktop//2d game ashwin//2022-10-20 17-07-13.mp4)
+## Gameplay video
+https://github.com/ashwin232003/2DGameJava/assets/143198668/51bcbc81-2942-4a10-b41f-ea84ef708ef2
 
 ## Description
 
-Blue Boy Adventure is a 2D game developed in Java using the AWT library and multithreading. It features exciting gameplay, real-time movement, and various in-game objects to interact with.
+**Embark on an Unforgettable 2D Adventure!**
 
-## Table of Contents
+Discover the enchanting world of Blue Boy Adventure, a mesmerizing 2D game brought to life with Java's AWT library, Swing, and the power of multithreading. Immerse yourself in a journey like no other, guiding the brave Blue Boy through intricate landscapes and intricate challenges and helping the blue boy to find his way to the treasure.
 
-- [Installation](#installation)
-- [Gameplay](#gameplay)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+**Key Features:**
 
-## Installation
+- **Engaging Gameplay:** Take control of Blue Boy and navigate intricate levels filled with obstacles and surprises. Utilize your skills to overcome challenges and unlock new horizons.
 
-1. Clone this repository:
+- **Stunning Visuals:** Experience the captivating 2D graphics crafted with Java AWT. Dive into a world that's both visually appealing and artistically captivating.
 
-   ```bash
-   git clone https://github.com/your-username/your-game.git
+- **Real-time Thrills:** Multithreaded mechanics ensure seamless and fluid character movement, making every second of gameplay a thrilling experience.
+
+- **Dynamic Interactions:** Engage with the game world through a variety of interactions, from collecting keys to unlocking doors. Discover power-ups that elevate the excitement.
+
