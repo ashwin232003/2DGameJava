@@ -1,6 +1,6 @@
 # Blue Boy Adventure - 2D Game using Java AWT and Threads
 
-[![Gameplay Video](video_thumbnail.png)](https://www.example.com/C:/Users/admin/Desktop/2d game ashwin/2022-10-20 17-07-13.mp4)
+[![Gameplay Video](video_thumbnail.png)](https://www.example.com//C://Users//admin//Desktop//2d game ashwin//2022-10-20 17-07-13.mp4)
 
 ## Description
 
